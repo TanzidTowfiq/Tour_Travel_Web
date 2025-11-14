@@ -1,20 +1,82 @@
-﻿# Tours & Travel Website
+# Tours & Travel Website
 
-## Run Backend Server
+A full‑stack Tours & Travel web application featuring tour listings, booking system, gallery, reviews, admin dashboard, and more.
+
+## 🚀 Project Overview
+
+This project provides a complete travel booking experience with both **frontend** and **backend** servers. Users can browse tours, view details, book tours, explore galleries, read reviews, and manage their bookings. Admins can manage tours and oversee bookings from a dedicated dashboard.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+* Javascript
+*  CSS 
+
+### **Backend**
+
+* Node.js
+* Express.js
+* JWT Authentication
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the application locally.
+
+### **1️⃣ Clone the Repository**
+
+```bash
+git clone <repository-url>
+cd project-folder
+```
+
+---
+
+## 🔧 Backend Setup
+
 ```bash
 cd backend
 npm install
 npm run dev
 ```
-Now Backend is running on http://localhost:4000
 
-## Run Frontend Server
+Backend will run at: [**http://localhost:4000**](http://localhost:4000)
+
+---
+
+## 🎨 Frontend Setup
+
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-Now Frontend is running on http://localhost:3000
+
+Frontend will run at: [**http://localhost:3000**](http://localhost:3000)
+
+---
+
+## 📁 Project Structure
+
+```
+project-folder/
+│
+├── assets/
+│
+├── backend/
+│  
+├── database/
+│   └── (database files)
+│
+└── frontend/
+```
+
+##
+
 
 Some of the screenshots of the project are as follows:
 
@@ -51,4 +113,5 @@ Some of the screenshots of the project are as follows:
 ![Admin 3](assets/admin-3.png) 
 ![Admin 4](assets/admin-4.png) 
 ![Admin 5](assets/admin-5.png)
+
 
