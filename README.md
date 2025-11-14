@@ -89,8 +89,6 @@ Some of the screenshots of the project are as follows:
 ### Tour Details & Booking
 ![Booking Page](assets/bookingpage.png)
 
-### My Bookings
-![My Bookings](assets/my_bookings.png)
 
 ### Gallery
 ![Gallery](assets/gallery.png)
@@ -113,6 +111,7 @@ Some of the screenshots of the project are as follows:
 ![Admin 3](assets/admin-3.png) 
 ![Admin 4](assets/admin-4.png) 
 ![Admin 5](assets/admin-5.png)
+
 
 
 
