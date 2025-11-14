@@ -24,9 +24,6 @@ Some of the screenshots of the project are as follows:
 ### Homepage
 ![Homepage](assets/homepage.png)
 
-### Tours Page
-![Tours](assets/tours.png)
-
 ### Tour Details & Booking
 ![Booking Page](assets/bookingpage.png)
 
@@ -48,8 +45,10 @@ Some of the screenshots of the project are as follows:
 ---
 
 ### Admin Dashboard
-![Admin 1](assets/admin-1.png) |
-![Admin 2](assets/admin-2.png) |
-![Admin 3](assets/admin-3.png) |
-![Admin 4](assets/admin-4.png) |
-![Admin 5](assets/admin-5.png) |
+![Admin 1](assets/admin-1.png)
+![Tours](assets/tours.png)
+![Admin 2](assets/admin-2.png) 
+![Admin 3](assets/admin-3.png) 
+![Admin 4](assets/admin-4.png) 
+![Admin 5](assets/admin-5.png)
+
