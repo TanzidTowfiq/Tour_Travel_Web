@@ -30,7 +30,7 @@ Follow these steps to run the application locally.
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/TanzidTowfiq/Tour_Travel_Web.git>
 cd project-folder
 ```
 
@@ -113,5 +113,6 @@ Some of the screenshots of the project are as follows:
 ![Admin 3](assets/admin-3.png) 
 ![Admin 4](assets/admin-4.png) 
 ![Admin 5](assets/admin-5.png)
+
 
 
